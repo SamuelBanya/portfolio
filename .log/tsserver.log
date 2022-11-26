@@ -342,3 +342,5 @@ Info 299  [22:10:19.310] Search path: /home/sam/hub/portfolio/src/app/layout
 Info 300  [22:10:19.310] For info: /home/sam/hub/portfolio/src/app/layout/Footer.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
 Info 301  [22:10:31.806] Search path: /home/sam/hub/portfolio/src/app/hooks
 Info 302  [22:10:31.806] For info: /home/sam/hub/portfolio/src/app/hooks/usePageTracking.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
+Info 303  [22:14:28.435] Search path: /home/sam/hub/portfolio/src/app/layout
+Info 304  [22:14:28.435] For info: /home/sam/hub/portfolio/src/app/layout/AppButtons.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
