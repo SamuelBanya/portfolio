@@ -1,29 +1,33 @@
-Info 0    [22:05:33.053] Starting TS Server
-Info 1    [22:05:33.141] Version: 4.7.2
-Info 2    [22:05:33.141] Arguments: /usr/bin/node /home/sam/.emacs.d/var/lsp/server/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /home/sam/hub/portfolio/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/7e750c6ed43f608ce0fe4b224b364243/tscancellation*
-Info 3    [22:05:33.142] Platform: linux NodeVersion: 19 CaseSensitive: true
-Info 4    [22:05:33.142] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
-Info 5    [22:05:33.174] Format host information updated
-Info 6    [22:05:33.304] Search path: /home/sam/hub/portfolio/src/app/components
-Info 7    [22:05:33.306] For info: /home/sam/hub/portfolio/src/app/components/MDContainer.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 8    [22:05:33.307] Creating configuration project /home/sam/hub/portfolio/tsconfig.json
-Info 9    [22:05:33.348] Config: /home/sam/hub/portfolio/tsconfig.json : {
+Info 0    [22:37:03.227] Starting TS Server
+Info 1    [22:37:03.273] Version: 4.7.2
+Info 2    [22:37:03.273] Arguments: /home/sam/.nvm/versions/node/v16.13.1/bin/node /home/sam/.emacs.d/var/lsp/server/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /home/sam/hub/portfolio/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/6c0acbde9202118a583030e340acd2e6/tscancellation*
+Info 3    [22:37:03.273] Platform: linux NodeVersion: 16 CaseSensitive: true
+Info 4    [22:37:03.273] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [22:37:03.296] Format host information updated
+Info 6    [22:37:03.936] Search path: /home/sam/hub/portfolio/src/pages/Contact
+Info 7    [22:37:03.938] For info: /home/sam/hub/portfolio/src/pages/Contact/index.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
+Info 8    [22:37:03.938] Creating configuration project /home/sam/hub/portfolio/tsconfig.json
+Info 9    [22:37:03.990] Config: /home/sam/hub/portfolio/tsconfig.json : {
  "rootNames": [
+  "/home/sam/hub/portfolio/src/App.tsx",
   "/home/sam/hub/portfolio/src/index.tsx",
   "/home/sam/hub/portfolio/src/react-app-env.d.ts",
-  "/home/sam/hub/portfolio/src/reportWebVitals.ts",
-  "/home/sam/hub/portfolio/src/setupTests.ts",
-  "/home/sam/hub/portfolio/src/app/components/MDContainer.tsx",
-  "/home/sam/hub/portfolio/src/app/components/globals.d.ts",
-  "/home/sam/hub/portfolio/src/app/hooks/usePageTracking.tsx",
-  "/home/sam/hub/portfolio/src/app/layout/App.tsx",
-  "/home/sam/hub/portfolio/src/app/layout/AppButtons.tsx",
-  "/home/sam/hub/portfolio/src/app/layout/AppTree.tsx",
-  "/home/sam/hub/portfolio/src/app/layout/Footer.tsx",
-  "/home/sam/hub/portfolio/src/app/layout/Sidebar.tsx",
-  "/home/sam/hub/portfolio/src/app/pages/Home.tsx",
-  "/home/sam/hub/portfolio/src/app/pages/links.tsx",
-  "/home/sam/hub/portfolio/src/app/pages/pages.ts"
+  "/home/sam/hub/portfolio/src/components/EducationCard/EducationCard.tsx",
+  "/home/sam/hub/portfolio/src/components/Navbar/LinksData.ts",
+  "/home/sam/hub/portfolio/src/components/Navbar/Navbar.tsx",
+  "/home/sam/hub/portfolio/src/components/ProjectCard/LinkButton.tsx",
+  "/home/sam/hub/portfolio/src/components/ProjectCard/ProjectCard.tsx",
+  "/home/sam/hub/portfolio/src/data/AboutData.ts",
+  "/home/sam/hub/portfolio/src/data/ExperienceData.ts",
+  "/home/sam/hub/portfolio/src/data/LinksData.tsx",
+  "/home/sam/hub/portfolio/src/data/ProjectsData.ts",
+  "/home/sam/hub/portfolio/src/data/SkillsData.tsx",
+  "/home/sam/hub/portfolio/src/pages/Contact/index.tsx",
+  "/home/sam/hub/portfolio/src/pages/Experience/index.tsx",
+  "/home/sam/hub/portfolio/src/pages/Home/index.tsx",
+  "/home/sam/hub/portfolio/src/pages/Projects/index.tsx",
+  "/home/sam/hub/portfolio/src/pages/Skills/index.tsx",
+  "/home/sam/hub/portfolio/src/utils/FramerAnimation.ts"
  ],
  "options": {
   "target": 1,
@@ -48,299 +52,4 @@ Info 9    [22:05:33.348] Config: /home/sam/hub/portfolio/tsconfig.json : {
   "configFilePath": "/home/sam/hub/portfolio/tsconfig.json"
  }
 }
-Info 10   [22:05:33.360] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 11   [22:05:34.737] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1377.2152999993414ms
-Info 12   [22:05:34.737] Project '/home/sam/hub/portfolio/tsconfig.json' (Configured)
-Info 13   [22:05:34.738] 	Files (69)
-
-Info 14   [22:05:34.738] -----------------------------------------------
-Info 15   [22:05:34.752] Search path: /home/sam/hub/portfolio/src/app/components
-Info 16   [22:05:34.753] For info: /home/sam/hub/portfolio/src/app/components/globals.d.ts :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 17   [22:05:51.591] Search path: /home/sam/hub/portfolio/src/app/pages
-Info 18   [22:05:51.591] For info: /home/sam/hub/portfolio/src/app/pages/Home.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 19   [22:06:40.903] Search path: /home/sam/hub/portfolio/src
-Info 20   [22:06:40.903] For info: /home/sam/hub/portfolio/src/index.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 21   [22:06:49.684] Search path: /home/sam/hub/portfolio/src
-Info 22   [22:06:49.684] For info: /home/sam/hub/portfolio/src/react-app-env.d.ts :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 23   [22:06:52.199] Search path: /home/sam/hub/portfolio/src
-Info 24   [22:06:52.199] For info: /home/sam/hub/portfolio/src/reportWebVitals.ts :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 25   [22:06:56.574] Search path: /home/sam/hub/portfolio/src
-Info 26   [22:06:56.575] For info: /home/sam/hub/portfolio/src/setupTests.ts :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 27   [22:07:10.433] Search path: /home/sam/hub/portfolio/src/app/pages
-Info 28   [22:07:10.433] For info: /home/sam/hub/portfolio/src/app/pages/links.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 29   [22:07:24.749] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 30   [22:07:24.777] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 27.331826001405716ms
-Info 31   [22:07:24.777] Different program with same set of files
-Info 32   [22:07:24.846] Format host information updated
-Info 33   [22:07:24.846] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 34   [22:07:24.857] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 10.63909300044179ms
-Info 35   [22:07:24.857] Different program with same set of files
-Info 36   [22:07:25.132] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 37   [22:07:25.146] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 14.1316670011729ms
-Info 38   [22:07:25.146] Different program with same set of files
-Info 39   [22:07:28.732] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 40   [22:07:28.746] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 14.434978000819683ms
-Info 41   [22:07:28.747] Different program with same set of files
-Info 42   [22:07:28.827] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 43   [22:07:28.837] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 10.255741000175476ms
-Info 44   [22:07:28.837] Different program with same set of files
-Info 45   [22:07:29.373] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 46   [22:07:29.382] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 8.114068999886513ms
-Info 47   [22:07:29.382] Different program with same set of files
-Info 48   [22:07:31.049] Format host information updated
-Info 49   [22:07:31.063] Format host information updated
-Info 50   [22:07:31.086] Format host information updated
-Info 51   [22:07:31.118] Format host information updated
-Info 52   [22:07:31.150] Format host information updated
-Info 53   [22:07:31.183] Format host information updated
-Info 54   [22:07:31.202] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 55   [22:07:31.216] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 13.696380000561476ms
-Info 56   [22:07:31.216] Different program with same set of files
-Info 57   [22:07:31.218] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 58   [22:07:31.234] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 15.716438999399543ms
-Info 59   [22:07:31.234] Different program with same set of files
-Info 60   [22:07:31.691] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 61   [22:07:31.698] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 7.150067999958992ms
-Info 62   [22:07:31.698] Different program with same set of files
-Info 63   [22:07:33.895] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 64   [22:07:33.914] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 18.32762400060892ms
-Info 65   [22:07:33.914] Different program with same set of files
-Info 66   [22:07:33.982] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 67   [22:07:33.988] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 12 structureChanged: false structureIsReused:: Completely Elapsed: 5.6517530009150505ms
-Info 68   [22:07:33.988] Different program with same set of files
-Info 69   [22:07:34.293] Format host information updated
-Info 70   [22:07:34.439] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 71   [22:07:34.451] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 13 structureChanged: false structureIsReused:: Completely Elapsed: 11.998418999835849ms
-Info 72   [22:07:34.451] Different program with same set of files
-Info 73   [22:07:38.228] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 74   [22:07:38.243] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 14 structureChanged: false structureIsReused:: Completely Elapsed: 15.1768079996109ms
-Info 75   [22:07:38.243] Different program with same set of files
-Info 76   [22:07:38.493] Format host information updated
-Info 77   [22:07:38.650] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 78   [22:07:38.664] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 15 structureChanged: false structureIsReused:: Completely Elapsed: 13.153888000175357ms
-Info 79   [22:07:38.664] Different program with same set of files
-Info 80   [22:08:02.331] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 81   [22:08:02.357] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 16 structureChanged: false structureIsReused:: Completely Elapsed: 26.286398999392986ms
-Info 82   [22:08:02.357] Different program with same set of files
-Info 83   [22:08:02.388] Format host information updated
-Info 84   [22:08:02.388] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 85   [22:08:02.395] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 17 structureChanged: false structureIsReused:: Completely Elapsed: 7.4114160016179085ms
-Info 86   [22:08:02.395] Different program with same set of files
-Info 87   [22:08:02.654] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 88   [22:08:02.665] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 18 structureChanged: false structureIsReused:: Completely Elapsed: 10.956104999408126ms
-Info 89   [22:08:02.665] Different program with same set of files
-Info 90   [22:08:05.371] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 91   [22:08:05.383] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 19 structureChanged: false structureIsReused:: Completely Elapsed: 12.231979999691248ms
-Info 92   [22:08:05.383] Different program with same set of files
-Info 93   [22:08:05.384] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 94   [22:08:05.402] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 20 structureChanged: false structureIsReused:: Completely Elapsed: 17.423133000731468ms
-Info 95   [22:08:05.402] Different program with same set of files
-Info 96   [22:08:07.496] Format host information updated
-Info 97   [22:08:07.505] Format host information updated
-Info 98   [22:08:07.826] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 99   [22:08:07.839] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 21 structureChanged: false structureIsReused:: Completely Elapsed: 12.70744900032878ms
-Info 100  [22:08:07.839] Different program with same set of files
-Info 101  [22:08:07.854] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 102  [22:08:07.868] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 22 structureChanged: false structureIsReused:: Completely Elapsed: 13.607175000011921ms
-Info 103  [22:08:07.868] Different program with same set of files
-Info 104  [22:08:07.900] Format host information updated
-Info 105  [22:08:08.056] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 106  [22:08:08.066] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 23 structureChanged: false structureIsReused:: Completely Elapsed: 9.900471998378634ms
-Info 107  [22:08:08.066] Different program with same set of files
-Info 108  [22:08:09.559] Format host information updated
-Info 109  [22:08:09.697] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 110  [22:08:09.704] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 24 structureChanged: false structureIsReused:: Completely Elapsed: 6.833505000919104ms
-Info 111  [22:08:09.704] Different program with same set of files
-Info 112  [22:08:16.182] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 113  [22:08:16.190] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 25 structureChanged: false structureIsReused:: Completely Elapsed: 7.879710998386145ms
-Info 114  [22:08:16.190] Different program with same set of files
-Info 115  [22:08:16.264] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 116  [22:08:16.270] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 26 structureChanged: false structureIsReused:: Completely Elapsed: 5.620633998885751ms
-Info 117  [22:08:16.270] Different program with same set of files
-Info 118  [22:08:17.177] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 119  [22:08:17.186] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 27 structureChanged: false structureIsReused:: Completely Elapsed: 8.81398699991405ms
-Info 120  [22:08:17.186] Different program with same set of files
-Info 121  [22:08:20.378] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 122  [22:08:20.392] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 28 structureChanged: false structureIsReused:: Completely Elapsed: 13.870614999905229ms
-Info 123  [22:08:20.393] Different program with same set of files
-Info 124  [22:08:21.531] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 125  [22:08:21.541] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 29 structureChanged: false structureIsReused:: Completely Elapsed: 9.822970999404788ms
-Info 126  [22:08:21.541] Different program with same set of files
-Info 127  [22:08:23.219] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 128  [22:08:23.228] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 30 structureChanged: false structureIsReused:: Completely Elapsed: 8.601964000612497ms
-Info 129  [22:08:23.228] Different program with same set of files
-Info 130  [22:08:23.840] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 131  [22:08:23.845] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 31 structureChanged: false structureIsReused:: Completely Elapsed: 5.118863001465797ms
-Info 132  [22:08:23.846] Different program with same set of files
-Info 133  [22:08:28.603] Format host information updated
-Info 134  [22:08:28.611] Format host information updated
-Info 135  [22:08:28.617] Format host information updated
-Info 136  [22:08:28.622] Format host information updated
-Info 137  [22:08:28.626] Format host information updated
-Info 138  [22:08:28.666] Format host information updated
-Info 139  [22:08:28.756] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 140  [22:08:28.765] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 32 structureChanged: false structureIsReused:: Completely Elapsed: 9.386606998741627ms
-Info 141  [22:08:28.765] Different program with same set of files
-Info 142  [22:08:29.077] Format host information updated
-Info 143  [22:08:29.085] Format host information updated
-Info 144  [22:08:29.232] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 145  [22:08:29.243] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 33 structureChanged: false structureIsReused:: Completely Elapsed: 11.517335999757051ms
-Info 146  [22:08:29.243] Different program with same set of files
-Info 147  [22:08:31.871] Format host information updated
-Info 148  [22:08:32.055] Format host information updated
-Info 149  [22:08:32.075] Format host information updated
-Info 150  [22:08:32.194] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 151  [22:08:32.198] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 34 structureChanged: false structureIsReused:: Completely Elapsed: 3.712192000821233ms
-Info 152  [22:08:32.198] Different program with same set of files
-Info 153  [22:08:34.654] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 154  [22:08:34.670] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 35 structureChanged: false structureIsReused:: Completely Elapsed: 16.143866000697017ms
-Info 155  [22:08:34.671] Different program with same set of files
-Info 156  [22:08:35.178] Format host information updated
-Info 157  [22:08:35.318] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 158  [22:08:35.328] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 36 structureChanged: false structureIsReused:: Completely Elapsed: 10.255340000614524ms
-Info 159  [22:08:35.328] Different program with same set of files
-Info 160  [22:08:40.208] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 161  [22:08:40.213] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 37 structureChanged: false structureIsReused:: Completely Elapsed: 4.809359999373555ms
-Info 162  [22:08:40.213] Different program with same set of files
-Info 163  [22:08:41.315] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 164  [22:08:41.325] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 38 structureChanged: false structureIsReused:: Completely Elapsed: 9.912332000210881ms
-Info 165  [22:08:41.325] Different program with same set of files
-Info 166  [22:08:48.973] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 167  [22:08:48.982] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 39 structureChanged: false structureIsReused:: Completely Elapsed: 8.914348000660539ms
-Info 168  [22:08:48.982] Different program with same set of files
-Info 169  [22:08:49.261] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 170  [22:08:49.269] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 40 structureChanged: false structureIsReused:: Completely Elapsed: 8.370257999747992ms
-Info 171  [22:08:49.270] Different program with same set of files
-Info 172  [22:08:49.864] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 173  [22:08:49.873] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 41 structureChanged: false structureIsReused:: Completely Elapsed: 8.376049000769854ms
-Info 174  [22:08:49.873] Different program with same set of files
-Info 175  [22:08:49.933] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 176  [22:08:49.950] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 42 structureChanged: false structureIsReused:: Completely Elapsed: 16.609784999862313ms
-Info 177  [22:08:49.950] Different program with same set of files
-Info 178  [22:08:50.495] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 179  [22:08:50.511] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 43 structureChanged: false structureIsReused:: Completely Elapsed: 15.587701000273228ms
-Info 180  [22:08:50.511] Different program with same set of files
-Info 181  [22:08:50.763] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 182  [22:08:50.769] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 44 structureChanged: false structureIsReused:: Completely Elapsed: 6.045696999877691ms
-Info 183  [22:08:50.769] Different program with same set of files
-Info 184  [22:08:51.138] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 185  [22:08:51.149] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 45 structureChanged: false structureIsReused:: Completely Elapsed: 10.552756000310183ms
-Info 186  [22:08:51.149] Different program with same set of files
-Info 187  [22:08:51.692] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 188  [22:08:51.707] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 46 structureChanged: false structureIsReused:: Completely Elapsed: 14.128792000934482ms
-Info 189  [22:08:51.707] Different program with same set of files
-Info 190  [22:08:52.183] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 191  [22:08:52.191] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 47 structureChanged: false structureIsReused:: Completely Elapsed: 7.866545001044869ms
-Info 192  [22:08:52.191] Different program with same set of files
-Info 193  [22:08:52.711] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 194  [22:08:52.719] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 48 structureChanged: false structureIsReused:: Completely Elapsed: 7.174014000222087ms
-Info 195  [22:08:52.719] Different program with same set of files
-Info 196  [22:08:53.321] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 197  [22:08:53.329] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 49 structureChanged: false structureIsReused:: Completely Elapsed: 7.7096629999578ms
-Info 198  [22:08:53.329] Different program with same set of files
-Info 199  [22:08:54.925] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 200  [22:08:54.933] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 50 structureChanged: false structureIsReused:: Completely Elapsed: 7.766510998830199ms
-Info 201  [22:08:54.933] Different program with same set of files
-Info 202  [22:08:55.263] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 203  [22:08:55.271] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 51 structureChanged: false structureIsReused:: Completely Elapsed: 7.799074999988079ms
-Info 204  [22:08:55.271] Different program with same set of files
-Info 205  [22:08:55.420] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 206  [22:08:55.430] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 52 structureChanged: false structureIsReused:: Completely Elapsed: 9.653413999825716ms
-Info 207  [22:08:55.430] Different program with same set of files
-Info 208  [22:08:55.794] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 209  [22:08:55.797] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 53 structureChanged: false structureIsReused:: Completely Elapsed: 3.532209999859333ms
-Info 210  [22:08:55.798] Different program with same set of files
-Info 211  [22:09:03.870] Format host information updated
-Info 212  [22:09:03.881] Format host information updated
-Info 213  [22:09:03.889] Format host information updated
-Info 214  [22:09:03.894] Format host information updated
-Info 215  [22:09:03.900] Format host information updated
-Info 216  [22:09:03.905] Format host information updated
-Info 217  [22:09:03.910] Format host information updated
-Info 218  [22:09:03.914] Format host information updated
-Info 219  [22:09:04.028] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 220  [22:09:04.040] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 54 structureChanged: false structureIsReused:: Completely Elapsed: 11.80898299999535ms
-Info 221  [22:09:04.040] Different program with same set of files
-Info 222  [22:09:04.073] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 223  [22:09:04.081] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 55 structureChanged: false structureIsReused:: Completely Elapsed: 8.37389399856329ms
-Info 224  [22:09:04.081] Different program with same set of files
-Info 225  [22:09:04.083] getCompletionData: Get current token: 0.036785000935196877
-Info 226  [22:09:04.084] getCompletionData: Is inside comment: 0.014824001118540764
-Info 227  [22:09:04.084] getCompletionData: Get previous token: 0.09078799933195114
-Info 228  [22:09:04.084] getCompletionsAtPosition: isCompletionListBlocker: 0.10764000006020069
-Info 229  [22:09:04.084] Returning an empty list because completion was requested in an invalid position.
-Info 230  [22:09:04.108] getCompletionData: Get current token: 0.047710999846458435
-Info 231  [22:09:04.108] getCompletionData: Is inside comment: 0.011669998988509178
-Info 232  [22:09:04.109] getCompletionData: Get previous token: 0.07742200046777725
-Info 233  [22:09:04.109] getCompletionsAtPosition: isCompletionListBlocker: 0.26167700067162514
-Info 234  [22:09:04.109] Returning an empty list because completion was requested in an invalid position.
-Info 235  [22:09:04.118] getCompletionData: Get current token: 0.04388299956917763
-Info 236  [22:09:04.118] getCompletionData: Is inside comment: 0.013901999220252037
-Info 237  [22:09:04.119] getCompletionData: Get previous token: 0.07323299907147884
-Info 238  [22:09:04.119] getCompletionsAtPosition: isCompletionListBlocker: 0.015500999987125397
-Info 239  [22:09:04.119] Returning an empty list because completion was requested in an invalid position.
-Info 240  [22:09:04.142] getCompletionData: Get current token: 0.04444799944758415
-Info 241  [22:09:04.142] getCompletionData: Is inside comment: 0.03629300184547901
-Info 242  [22:09:04.143] getCompletionData: Get previous token: 0.07549799978733063
-Info 243  [22:09:04.143] getCompletionsAtPosition: isCompletionListBlocker: 0.015531999990344048
-Info 244  [22:09:04.143] Returning an empty list because completion was requested in an invalid position.
-Info 245  [22:09:04.452] Format host information updated
-Info 246  [22:09:04.676] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 247  [22:09:04.684] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 56 structureChanged: false structureIsReused:: Completely Elapsed: 8.050556000322104ms
-Info 248  [22:09:04.684] Different program with same set of files
-Info 249  [22:09:07.442] Format host information updated
-Info 250  [22:09:07.459] Format host information updated
-Info 251  [22:09:07.472] Format host information updated
-Info 252  [22:09:07.483] Format host information updated
-Info 253  [22:09:07.491] Format host information updated
-Info 254  [22:09:07.503] Format host information updated
-Info 255  [22:09:07.519] Format host information updated
-Info 256  [22:09:07.524] Format host information updated
-Info 257  [22:09:07.528] Format host information updated
-Info 258  [22:09:07.533] Format host information updated
-Info 259  [22:09:07.594] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 260  [22:09:07.598] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 57 structureChanged: false structureIsReused:: Completely Elapsed: 4.037956001237035ms
-Info 261  [22:09:07.598] Different program with same set of files
-Info 262  [22:09:09.977] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 263  [22:09:09.981] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 58 structureChanged: false structureIsReused:: Completely Elapsed: 4.223032999783754ms
-Info 264  [22:09:09.982] Different program with same set of files
-Info 265  [22:09:10.382] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 266  [22:09:10.391] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 59 structureChanged: false structureIsReused:: Completely Elapsed: 8.719124000519514ms
-Info 267  [22:09:10.391] Different program with same set of files
-Info 268  [22:09:11.421] Format host information updated
-Info 269  [22:09:11.428] Format host information updated
-Info 270  [22:09:11.561] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 271  [22:09:11.569] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 60 structureChanged: false structureIsReused:: Completely Elapsed: 7.8556009996682405ms
-Info 272  [22:09:11.569] Different program with same set of files
-Info 273  [22:09:12.304] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 274  [22:09:12.315] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 61 structureChanged: false structureIsReused:: Completely Elapsed: 10.723491000011563ms
-Info 275  [22:09:12.315] Different program with same set of files
-Info 276  [22:09:13.880] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 277  [22:09:13.889] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 62 structureChanged: false structureIsReused:: Completely Elapsed: 9.120144998654723ms
-Info 278  [22:09:13.889] Different program with same set of files
-Info 279  [22:09:15.749] Format host information updated
-Info 280  [22:09:15.757] Format host information updated
-Info 281  [22:09:15.766] Format host information updated
-Info 282  [22:09:15.771] Format host information updated
-Info 283  [22:09:15.899] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 284  [22:09:15.908] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 63 structureChanged: false structureIsReused:: Completely Elapsed: 8.072250999510288ms
-Info 285  [22:09:15.908] Different program with same set of files
-Info 286  [22:09:16.195] Format host information updated
-Info 287  [22:09:16.201] Format host information updated
-Info 288  [22:09:16.336] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json
-Info 289  [22:09:16.343] Finishing updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json Version: 64 structureChanged: false structureIsReused:: Completely Elapsed: 7.020705999806523ms
-Info 290  [22:09:16.343] Different program with same set of files
-Info 291  [22:09:25.766] Search path: /home/sam/hub/portfolio/src/app/pages
-Info 292  [22:09:25.766] For info: /home/sam/hub/portfolio/src/app/pages/pages.ts :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 293  [22:09:51.066] Search path: /home/sam/hub/portfolio/src/app/layout
-Info 294  [22:09:51.067] For info: /home/sam/hub/portfolio/src/app/layout/Sidebar.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 295  [22:10:04.524] Search path: /home/sam/hub/portfolio/src/app/layout
-Info 296  [22:10:04.525] For info: /home/sam/hub/portfolio/src/app/layout/AppTree.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 297  [22:10:13.848] Search path: /home/sam/hub/portfolio/src/app/layout
-Info 298  [22:10:13.849] For info: /home/sam/hub/portfolio/src/app/layout/App.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 299  [22:10:19.310] Search path: /home/sam/hub/portfolio/src/app/layout
-Info 300  [22:10:19.310] For info: /home/sam/hub/portfolio/src/app/layout/Footer.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 301  [22:10:31.806] Search path: /home/sam/hub/portfolio/src/app/hooks
-Info 302  [22:10:31.806] For info: /home/sam/hub/portfolio/src/app/hooks/usePageTracking.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
-Info 303  [22:14:28.435] Search path: /home/sam/hub/portfolio/src/app/layout
-Info 304  [22:14:28.435] For info: /home/sam/hub/portfolio/src/app/layout/AppButtons.tsx :: Config file name: /home/sam/hub/portfolio/tsconfig.json
+Info 10   [22:37:04.007] Starting updateGraphWorker: Project: /home/sam/hub/portfolio/tsconfig.json

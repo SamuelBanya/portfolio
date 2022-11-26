@@ -1,0 +1,17 @@
+[22:37:03.518] Global cache location '/home/sam/.cache/typescript/4.7', safe file path '/home/sam/.emacs.d/var/lsp/server/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/sam/.emacs.d/var/lsp/server/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[22:37:03.519] Processing cache location '/home/sam/.cache/typescript/4.7'
+[22:37:03.519] Trying to find '/home/sam/.cache/typescript/4.7/package.json'...
+[22:37:03.520] Loaded content of '/home/sam/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.619"},"devDependencies":{"@types/object-assign":"^4.0.30","@types/react":"^18.0.15","@types/react-dom":"^18.0.6","@types/react-router-dom":"^5.3.3","@types/scheduler":"^0.16.2"}}
+[22:37:03.520] Loaded content of '/home/sam/.cache/typescript/4.7/package-lock.json'
+[22:37:03.533] Adding entry into typings cache: 'object-assign' => '/home/sam/.cache/typescript/4.7/node_modules/@types/object-assign/index.d.ts'
+[22:37:03.543] Adding entry into typings cache: 'react' => '/home/sam/.cache/typescript/4.7/node_modules/@types/react/index.d.ts'
+[22:37:03.546] Adding entry into typings cache: 'react-dom' => '/home/sam/.cache/typescript/4.7/node_modules/@types/react-dom/index.d.ts'
+[22:37:03.548] Adding entry into typings cache: 'react-router-dom' => '/home/sam/.cache/typescript/4.7/node_modules/@types/react-router-dom/index.d.ts'
+[22:37:03.551] Adding entry into typings cache: 'scheduler' => '/home/sam/.cache/typescript/4.7/node_modules/@types/scheduler/index.d.ts'
+[22:37:03.551] Finished processing cache location '/home/sam/.cache/typescript/4.7'
+[22:37:03.552] Process id: 13174
+[22:37:03.552] NPM location: /home/sam/.nvm/versions/node/v16.13.1/bin/npm (explicit '--npmLocation' not  provided)
+[22:37:03.552] validateDefaultNpmLocation: false
+[22:37:03.552] Npm config file: /home/sam/.cache/typescript/4.7/package.json
+[22:37:03.552] Updating types-registry npm package...
+[22:37:03.553] Exec: /home/sam/.nvm/versions/node/v16.13.1/bin/npm install --ignore-scripts types-registry@latest
