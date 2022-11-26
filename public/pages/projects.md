@@ -1,86 +1,141 @@
 # 🧪 Projects
 
-## [visa-termin-alert](https://github.com/noworneverev/visa-termin-alert) 🔗
-- The project is inspired by a terminated chatbot service which is aimed at providing instant German visa appointments status. As you may know, it is extremely difficult to book an appointment to apply German visa in Taiwan in busy season, one may have to refresh the termin page ALL DAY LONG FOR SEVERAL DAYS to reserve a seat. Since the German Institue don't tell us when vacant appointments will be released exactly, I built this chatbot to notify those who want to arrange appointments.
-- Python, Chatbot, LINE Bot, Deep Learning, Captcha Solving
+## [back-to-the-drawing-board](https://github.com/SamuelBanya/BackToTheDrawingBoard) 🔗
+- [demo](https://backtothedrawingboard.netlify.app/)
+- A 70's and 80's inspired comic book artist style drawing board web app that allows you to upload images to use as image references for creating art
+- React
 
-## [images-viewer](https://github.com/noworneverev/images-viewer) 🔗
-- A simple images viewer, scroll all images in one go.
-- React, Javascript
-- Hosted on [Github Pages](https://noworneverev.github.io/images-viewer/) 
+## [gregslist](https://gregslist-sambanya.netlify.app/ https://github.com/SamuelBanya/react-hooks-mock-code-challenge-gregslist) 🔗
+- [demo](https://gregslist-sambanya.netlify.app/)
+- A web app that is modeled after a popular public goods trading website
+- React
 
-## [react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio) 🔗
-- What you are looking at now
-- A vscode inspired portfolio project
-- Responsive Web Design 
-- React, TypeScript
+## [plantshop](https://github.com/SamuelBanya/react-hooks-mock-code-challenge-plantshop) 🔗
+- [demo](https://plantshop-sambanya.netlify.app/)
+- A web app that showcases a plant store with a filterable search
+- React
 
-## [go-germany](https://noworneverev.github.io/go-germany/) 🔗
-- As a prospective master student in Germany, I spent a lot of time searching for international programs and their related articles shared by applicants. I know there's a [DAAD site](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?cert=&admReq=&langExamPC=&scholarshipLC=&langExamLC=&scholarshipSC=&langExamSC=&degree%5B%5D=&fos=&langDeAvailable=&langEnAvailable=&lang%5B%5D=&cit%5B%5D=&tyi%5B%5D=&ins%5B%5D=&fee=&bgn%5B%5D=&dat%5B%5D=&prep_subj%5B%5D=&prep_degree%5B%5D=&sort=4&dur=&subjects%5B%5D=&q=&limit=10&offset=&display=list) which is helpful for searching the desired program; however, I don't like the way it displays search results and I think if I can find related articles shared by former applicants at the same time, that would be simply awesome, so I created this site. I want to create a search tool so amazing that it'll be the one you find your desired programs -- I think this it.
-- The whole project consists of three repositories, [go-germany](https://github.com/noworneverev/go-germany), [go-germany-api](https://github.com/noworneverev/go-germany-api), and [go-germany-sync](https://github.com/noworneverev/go-germany-sync), which are the frontend, the backend, and the data synchronization tool respectively.
-  - go-germany
-    * [TypeScript](https://github.com/microsoft/TypeScript)
-    * [React.js](https://reactjs.org/)
-    * [React Redux](https://github.com/reduxjs/react-redux)
-    * [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
-    * [Material UI](https://github.com/mui/material-ui)
+## [sushi-saga](https://github.com/SamuelBanya/react-hooks-practice-sushi-saga) 🔗
+- [demo](https://sushi-saga.netlify.app/)
+- A web app that showcases a sushi restaurant with a variety of sushi to order from
+- React
 
-  - go-germany-api
-    * [Go](https://github.com/golang/go)
-    * [httprouter](https://github.com/julienschmidt/httprouter)
-    * [PostgreSQL](https://www.postgresql.org/)
-    * [pq](https://github.com/lib/pq)
-  
-  - go-germany-sync
-    * [Python](https://www.python.org/)
-    * [asyncpg](https://github.com/MagicStack/asyncpg)
-    * [Github Action](https://github.com/features/actions)
+## [toy-tales](https://github.com/SamuelBanya/react-hooks-practice-toy-tales) 🔗
+- [demo](https://toy-tales.netlify.app/)
+- A web app that showcases classic Toy Story characters with the ability to fetch toys, and to donate them with related fetch() API calls
+- React
 
-## [blog](https://github.com/noworneverev/blog) 🔗
-- The blog I built based on [docusaurus](https://github.com/noworneverev/blog) to document my learning progress and to share the add-ins I created which were used to increase my efficiency at work.
-- Javascript, React, Docusaurus
+## [pokemon-searcher](https://github.com/SamuelBanya/react-hooks-practice-pokemon-searcher) 🔗
+- [demo](https://pokemon-searcher-sambanya.netlify.app/)
+- A web app that allows users to search and view info for various Pokemon including their name, sprite, HP with additional filter options
+- React
 
-## [notion-pdf](https://github.com/noworneverev/notion-pdf) 🔗
-- A tool that you can choose either [weasyprint](https://github.com/Kozea/WeasyPrint) or chromedriver(save as pdf) to convert Notion exported html files to pdf files.
-- Python, weasyprint
-          
-## [eyny-novel](https://github.com/noworneverev/eyny-novel) 🔗
-- A novel downloader
-- Python, Beautiful Soup
+## [stocks](https://github.com/SamuelBanya/react-hooks-practice-stocks) 🔗
+- [demo](https://stocks-sambanya.netlify.app/)
+- A web app that displays stock prices with price and name filters
+- React
 
-## [react-flask-mysql-example](https://github.com/noworneverev/react-flask-mysql-example) 🔗
-- An example utilize Flask and MySQL as backend and React-Admin as Frontend to build admin dashboard.
-- Python, Flask, MySQL, React, [React-Admin](https://github.com/marmelab/react-admin)
+## [meowser](https://github.com/SamuelBanya/Meowser) 🔗
+- [demo](https://meowser.netlify.app/)
+- My Phase 1 project for Flatiron School Software Bootcamp that allows you to view various cat breeds
+- JS
 
-## [Excel-starter](https://github.com/noworneverev/Excel-Starter) 🔗
-- Website: https://excel-starter.netlify.app/
-- It's a website documenting basic Excel techniques which I deemed newbie auditor should know and sharing VBA tools I developed to tackle working papers.
-- React, Gatsby
+## [github-searcher](https://github.com/SamuelBanya/GitHubSearcher) 🔗
+- [demo](https://apps.musimatic.xyz/jsprojectwebsites/GitHubSearcher/index.html)
+- An app that allows the user to search for GitHub profiles and related projects
+- JS
 
-## [pybecker](https://github.com/noworneverev/pybecker) 🔗
-- A web scraping tool which can parse [Becker](https://www.becker.com/), download all the questions and save the content to txt files.
-- I built this tool to help me prepare the AICPA Exam, since the website don't have download functionality. Unfortunately, Github disabled the repo due to DMCA takedown, even though the tool would make sure the user who should have the account registered in Becker.
-- Python, Beautiful Soup 
+## [simple-liker](https://github.com/SamuelBanya/phase-1-building-simple-liker) 🔗
+- [demo](https://samuelbanya.github.io/phase-1-building-simple-liker/)
+- Simple app that allows the user to like a user's comment which then sends a response to the app's server
+- JS
 
-## Trial Balance System
-- It's the smartest trial balance solution in Taiwan which was in house developed and targeted for audit leadsheet generatinon.
-- C#, MSSQL
+## [Monsters](https://github.com/SamuelBanya/phase-1-monsters)🔗
+- [demo](https://phase-1-monsters.netlify.app/)
+- Web app that obtains a list of movie monsters from a 'db.json' based database via 'json-server'
+- JS
 
-## [PDF2Excel](https://github.com/noworneverev/PDF2Excel) 🔗
-- Extract tables from PDF files and save them into separate Excel(.xlsx) files.
-- Python, [PDFPlumber](https://github.com/jsvine/pdfplumber), Pandas, PyQt5
+## [JavaScript Quotes](com/SamuelBanya/phase-1-javascript-quotes-practice)🔗
+- [demo](https://phase-1-javascript-quotes-practice.netlify.app/)
+- Web app that displays a list of quotes
+- JS
 
-## [TickMark](https://github.com/noworneverev/TickMark) 🔗
-- An add-in for auditors and accountants. This Excel add-in is designed to help auditors to deal with working papers.
-- This was my first Visual Basic program. Before I wrote this Visual Basic based add-in, I only had some basic knowledge of VBA. I spent the whole March building this add-in and self-learning Visual Basic simultaneously.
-- Page: [TickMark Demo](https://noworneverev.github.io/tickmark_demo/)
-- Demo: https://youtu.be/Hi4jG4As_h8
-- VB.NET
+## [Ramen Rater](https://ramen-rater.netlify.app)🔗
+- [demo](https://ramen-rater.netlify.app/)
+- Web app that allows you to rate plates of various ramen dishes
+- JS
 
-## [Commercial Law App](https://github.com/noworneverev/CommercialLaw) 🔗
-- My first mobile application aimed at helping myself to prepare the CPA Exam in spare time.
-- Java
+## [Bandcamper](https://github.com/SamuelBanya/Bandcamper)🔗
+- [demo](https://apps.musimatic.xyz/pythonprojectwebsites/Bandcamper/tags.html)
+- Python 3 based web app that scrapes data from the Bandcamp.com website to allow the user to search bands by genre and location in a simpler way than even on the Bandcamp site itself
+- Python 3
+- JS
 
-## [Liu Input Method Tutorial](https://noworneverev.github.io/learnliu/) 🔗
-- The tutorial website teaches how to use Liu input method(嘸蝦米輸入法).
-- HTML
+## [Scripture Of The Day](https://github.com/SamuelBanya/ScriptureOfTheDay)🔗
+- [demo](https://apps.musimatic.xyz/pythonprojectwebsites/ScriptureOfTheDay/output.html)
+- Web app based upon a CronTab job that generates a random King James Version of the Bible scripture of the day, and displays it on a webpage by using the 'KJV' command line utility
+- CronTab
+- JS
+
+## [Collar](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/Collar/index.html)
+- Parody dating website that showcases several high-profile white collar ex-con celebrities
+- Bootstrap CSS
+
+## [Emulation Nation](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/EmulationNation/index.html)
+- Website that discusses the topic of emulators throughout their history and their use today
+- Bootstrap CSS
+
+## [Garfield Zone](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/GarfieldZone/index.html)
+- Website that that discusses the comic, "Garfield", created by the one and only Jim Davis
+- Bootstrap CSS
+
+## [PageCeption](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/PageCeption/index.html)
+- Website that showcases Chapter 8 in both the "HTML & CSS: Design and Build Websites" and "JavaScript & JQuery: Interactive Front - end Web Development " books as well as play around with iFrame tags
+- Bootstrap CSS
+
+## [Sector T](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/SectorT/index.html)
+- Website that discusses the topic of text editors throughout their history, and the popular ones used today
+- Bootstrap CSS
+
+## [Slings](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/Slings/index.html)
+- Parody website for a night club for stay-at-home dads
+- HTML5/CSS3
+
+## [Synth City](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/SynthCity/index.html)
+- Website that discusses the topic of synthesizers and their role in past and present music today
+- Bootstrap CSS
+
+## [The History Of MS Paint](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/TheHistoryOfMSPaint/index.html)
+- Website that discusses the history of MS Paint
+- Bootstrap CSS
+
+## [Visit Monaco](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/BootstrapSites/VisitMonaco/index.html)
+- Website about the second smallest country in the world, Monaco
+- Bootstrap CSS
+
+## [Webring](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/webring.html)
+- Webring website created from an Emacs Org Mode doc that contains interesting websites
+- Emacs
+- Org Mode
+
+## [Main Dish Recipes](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/maindishrecipes.html)
+- Recipes websites built from an Emacs Org Mode doc that contains great main dish recipes
+- Emacs
+- Org Mode
+
+## [Dessert Recipes](https://github.com/samuelbanya)🔗
+- [demo](https://apps.musimatic.xyz/dessertrecipes.html)
+- Dessert recipes website built from an Emacs Org Mode doc that contains great dessert recipes
+- Emacs
+- Org Mode

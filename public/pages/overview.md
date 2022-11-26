@@ -2,87 +2,69 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
-
+Junior Software Developer specializing in web application development. Experienced with a background in technical support as well as various side personal projects.
+Well-versed in numerous programming languages including Javascript / TypeScript, React, Ruby On Rails, AngularJS, and Python 3.
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Junior Software Developer** @ [Hamilton Telecommunications](https://hamiltontel.com/) _(Nov 2022 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+Assists the development manager with all aspects of software design and coding.
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  - Created API documentation for existing API backend.
+  - Revised and created Postman Collection API calls for API calls.
+- _**Technologies used:**_ JS, TS, React.js, Ruby On Rails, AngularJS, Python 3.
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Technical Support Engineer** @ [Snyk](https://snyk.io/) _(Nov 2021 - Oct 2022)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+Listened to users’ needs, listened for recurring requests, and represented the users' voice in daily meetings with the Tier 2 and engineering teams.
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+  - Consistently achieved top 3 status for overall ticket closure rate within support team.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**Customer Success Support Analyst** @ [TRG Screen](https://www.trgscreen.com/) _(Jan 2019 - May 2021)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+Answered client questions for multiple products via ZenDesk support tickets, and screen sharing calls.
+- Detailed achievements:
+  - Developed and maintained PowerShell and Python based webscraper project for easier resource creation.
+  - Developed SQL scripts to create and maintain new reports for ResearchMonitor's RMWeb.
+  - Participated in JIRA based regression testing for latest product releases.
+  - Conducted training sessions with clients for ResearchMonitor, Quest, and ResearchHub products.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2022-2023` [Flatiron School](https://flatironschool.com/)
+- **Full Stack Software Certificate** in Software Engineering
+- Coursework: JavaScript, Ruby, React.js, Ruby on Rails, HTML, CSS, SQLite, PostgreSQL, Active Record, Sinatra, Nokogiri, Heroku, GitHub pages, Postman, DB Browser for SQLite, DOM manipulation, and VS Code for code editing.
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
-
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`2009-2013` [East Stroudsburg University](https://www.esu.edu/)
+- **Bachelors** in Biology
+- GPA: 3.61/4.0
 
 ## Skills
 
 ### General Tech Stacks
-- Architecture Design
-- Desktop App Development
 - Web Development (Frontend & Backend)
 
 ### Programming languages
-- C# .NET
-- Python
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+- AngularJS
+- Ruby On Rails
 
-## Certificates
-- Certified Public Accountant (Taiwan)
+### Databases
+- SQLite
+- PostgreSQL
 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+### Cloud
+- Heroku
+- Render
+
+### Vcs
+- Git
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+**English**: Native

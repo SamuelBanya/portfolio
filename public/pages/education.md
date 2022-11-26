@@ -1,26 +1,9 @@
 # 👨‍🎓 Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2022-2023` [Flatiron School](https://flatironschool.com/)
+- **Full Stack Software Certificate** in Software Engineering
+- Coursework: JavaScript, Ruby, React.js, Ruby on Rails, HTML, CSS, SQLite, PostgreSQL, Active Record, Sinatra, Nokogiri, Heroku, GitHub pages, Postman, DB Browser for SQLite, DOM manipulation, and VS Code for code editing.
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
-
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`2009-2013` [East Stroudsburg University](https://www.esu.edu/)
+- **Bachelors** in Biology
+- GPA: 3.61/4.0

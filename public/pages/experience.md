@@ -1,25 +1,28 @@
 # 👨‍💻 Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Junior Software Developer** @ [Hamilton Telecommunications](https://hamiltontel.com/) _(Nov 2022 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+Assists the development manager with all aspects of software design and coding.
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  - Created API documentation for existing API backend.
+  - Revised and created Postman Collection API calls for API calls.
+- _**Technologies used:**_ JS, TS, React.js, Ruby On Rails, AngularJS, Python 3.
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Technical Support Engineer** @ [Snyk](https://snyk.io/) _(Nov 2021 - Oct 2022)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+Listened to users’ needs, listened for recurring requests, and represented the users' voice in daily meetings with the Tier 2 and engineering teams.
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+  - Consistently achieved top 3 status for overall ticket closure rate within support team.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**Customer Success Support Analyst** @ [TRG Screen](https://www.trgscreen.com/) _(Jan 2019 - May 2021)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+Answered client questions for multiple products via ZenDesk support tickets, and screen sharing calls.
+- Detailed achievements:
+  - Developed and maintained PowerShell and Python based webscraper project for easier resource creation.
+  - Developed SQL scripts to create and maintain new reports for ResearchMonitor's RMWeb.
+  - Participated in JIRA based regression testing for latest product releases.
+  - Conducted training sessions with clients for ResearchMonitor, Quest, and ResearchHub products.

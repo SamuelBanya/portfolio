@@ -1,2 +1,2 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+- Certificate in Software Development from Flatiron School
